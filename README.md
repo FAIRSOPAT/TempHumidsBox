@@ -38,5 +38,45 @@
 <p>ขนาด : 28.2mm. x 13.1mm. x 10mm.<p>  
 <a href="https://www.robotsiam.com/product/151/dht22-temperature-and-humidity-sensor-pcb"> This is a link</a>    
   
+<h1>Model งาน</h1>
+<p>ตัวอย่างการสร้างกล่องใส่อุปกรณ์<p>    
+<img src="ref/modelone.JPG" width="850">   
+<p>ตัวอย่างการสร้างกล่องใส่อุปกรณ์<p>    
+<p>ผมจะแบ่งเป็นสองส่วนคือ ส่วนบน Fusion เป็นฝาปิดด้านบนและอีกส่วนคือ Fusion001 เป็นฐานล่างครับ<p>    
+<p>ขนาดของฐานล่าว และ ฝาปิด : 100mm. x 65mm.<p>
+<p>ขนาดของขอบฐาน : 100mm. x 12mm. x 100mm. x 12mm.<p>
+<p>ขนาดขอบฝาปิด : 100mm. x 8mm. x 100mm. x 8mm.<p>
+<p>ขนาดของรูขั้วต่อไปเลี้ยงแบบกลม : 5mm.<p>
+<p>ขนาดของ Button : 12mm.<p>    
+<p>ขนาดของ DHT : 25mm. x 13.5mm.<p>
+<p>ขนาด LED: 5mm.<p>  
+<p>ขนาดรูต่อไฟ Relay: 18mm. x 6mm.<p>  
+<p>รูน็อตเชื่อม Relay: 2.5mm.<p>
+<p>รูน็อตเชื่อมกล่อง: 1.5mm.<p>
+<p>รูน็อตเอาไว้เชื่อมบนฝาผนัง: 2.6<p> 
+  
+<h1>Model example</h1>
+<p>ภาพรวมชิ้นงาน<p>  
+<img src="ref/modelton.JPG" width="850">   
+
+<p>ภาพรวมชิ้นงานข้างบน<p>  
+<img src="ref/top.JPG" width="850">   
+
+<p>ภาพรวมชิ้นงานด้านข้าง<p>  
+<img src="ref/modelone.JPG" width="850">   
+  
+<p>ภาพรวมชิ้นงานด้านขวา<p>  
+<img src="ref/modeltwo.JPG" width="850">   
+
+<p>ภาพรวมชิ้นงานตอนประกอบรวม<p>  
+<img src="ref/pagob.JPG" width="850">   
+
+  
+  
+
+  
+  
+  
+
   
   
