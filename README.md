@@ -39,9 +39,9 @@
 <a href="https://www.robotsiam.com/product/151/dht22-temperature-and-humidity-sensor-pcb"> This is a link</a>    
   
 <h1>Model งาน</h1>
-<p>Detail<p>    
-<img src="ref/modelone.JPG" width="850">   
-<p>ตัวอย่างการสร้างกล่องใส่อุปกรณ์<p>    
+<p>ตัวอย่างการสร้างกล่องใส่อุปกรณ์<p>       
+<img src="ref/modelone.JPG" width="850"> 
+<p>Detail<p>      
 <p>ผมจะแบ่งเป็นสองส่วนคือ ส่วนบน Fusion เป็นฝาปิดด้านบนและอีกส่วนคือ Fusion001 เป็นฐานล่างครับ<p>    
 <p>ขนาดของฐานล่าว และ ฝาปิด : 100mm. x 65mm.<p>
 <p>ขนาดของขอบฐาน : 100mm. x 12mm. x 100mm. x 12mm.<p>
