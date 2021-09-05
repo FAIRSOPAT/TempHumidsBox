@@ -3,3 +3,4 @@
 <img src="ref/Homeworkex.JPG" width="850">
 <h1>อุปกรณ์</h1>  
 <p>Breadboard สำหรับใส่ NodeMCU v.2 (ESP8266)<p>
+<img src="ref/Breadboard.jpg" width="350">
