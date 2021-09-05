@@ -39,7 +39,7 @@
 <a href="https://www.robotsiam.com/product/151/dht22-temperature-and-humidity-sensor-pcb"> This is a link</a>    
   
 <h1>Model งาน</h1>
-<p>ตัวอย่างการสร้างกล่องใส่อุปกรณ์<p>    
+<p>Detail<p>    
 <img src="ref/modelone.JPG" width="850">   
 <p>ตัวอย่างการสร้างกล่องใส่อุปกรณ์<p>    
 <p>ผมจะแบ่งเป็นสองส่วนคือ ส่วนบน Fusion เป็นฝาปิดด้านบนและอีกส่วนคือ Fusion001 เป็นฐานล่างครับ<p>    
